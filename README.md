@@ -4,18 +4,6 @@
 
 ---
 
-## 🌟 Portfolio Highlights
-
-<div align="center">
-
-[![Flipkart UI Automation](https://img.shields.io/badge/Flipkart-UI_Automation-ED8B00?style=for-the-badge&logo=Flipkart&logoColor=white)](https://github.com/mukeshbhol325/Flipkart-UI-Automation)
-[![PetStore Automation](https://img.shields.io/badge/PetStore-API_Automation-0F9D58?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/mukeshbhol325/PetStoreAutomation)
-[![OpenCart UI Automation](https://img.shields.io/badge/OpenCart-UI_Automation-2496ED?style=for-the-badge&logo=OpenCart&logoColor=white)](https://github.com/mukeshbhol325/OpenCart-UI-Automation)
-
-</div>
-
----
-
 ## About Me
 🔹 SDET / Automation Engineer with expertise in **Java, Selenium, TestNG, RestAssured, Cucumber, JUnit, BDD, MySQL, Git & GitHub**  
 🔹 Experienced in **UI & API Automation, System Design, Low-Level Design (LLD), and building scalable test frameworks**  
@@ -45,73 +33,70 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (Interactive)
 
+<div align="center">
+
+### 🔹 Flipkart UI Automation
+[![Flipkart UI](https://img.shields.io/badge/Flipkart-UI_Automation-ED8B00?style=for-the-badge)](https://github.com/mukeshbhol325/Flipkart-UI-Automation)  
+<sub>Hover over the tech stack to see details!</sub>  
 <details>
-<summary>🔹 Flipkart UI Automation</summary>
-<p>
-End-to-end automation framework for the Flipkart web application.
-
-**Tech Stack:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-008000?style=for-the-badge&logo=TestNG&logoColor=white)
-![ExtentReports](https://img.shields.io/badge/ExtentReports-000000?style=for-the-badge&logo=appveyor&logoColor=white)
-![POM](https://img.shields.io/badge/POM-FF69B4?style=for-the-badge&logo=UML&logoColor=white)
-
-[🔗 GitHub Repo](https://github.com/mukeshbhol325/Flipkart-UI-Automation)
-</p>
+<summary>Tech Stack</summary>
+- Java  
+- Selenium  
+- TestNG  
+- Extent Reports  
+- Page Object Model (POM)  
 </details>
 
+### 🔹 PetStore Automation
+[![PetStore API](https://img.shields.io/badge/PetStore-API_Automation-0F9D58?style=for-the-badge)](https://github.com/mukeshbhol325/PetStoreAutomation)  
 <details>
-<summary>🔹 PetStore Automation</summary>
-<p>
-API Automation framework for PetStore API with schema validation and reusable utilities.
-
-**Tech Stack:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=RestAssured&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-008000?style=for-the-badge&logo=TestNG&logoColor=white)
-![API Testing](https://img.shields.io/badge/API-Testing-0F9D58?style=for-the-badge&logo=Postman&logoColor=white)
-![Schema Validation](https://img.shields.io/badge/Schema-Validation-FF8C00?style=for-the-badge&logo=UML&logoColor=white)
-
-[🔗 GitHub Repo](https://github.com/mukeshbhol325/PetStoreAutomation)
-</p>
+<summary>Tech Stack</summary>
+- Java  
+- RestAssured  
+- TestNG  
+- API Testing  
+- Schema Validation  
 </details>
 
+### 🔹 OpenCart UI Automation
+[![OpenCart UI](https://img.shields.io/badge/OpenCart-UI_Automation-2496ED?style=for-the-badge)](https://github.com/mukeshbhol325/OpenCart-UI-Automation)  
 <details>
-<summary>🔹 OpenCart UI Automation</summary>
-<p>
-Full automation framework for OpenCart e-commerce platform with CI/CD integration.
-
-**Tech Stack:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-008000?style=for-the-badge&logo=TestNG&logoColor=white)
-![ExtentReports](https://img.shields.io/badge/ExtentReports-000000?style=for-the-badge&logo=appveyor&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Enabled-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=white)
-
-[🔗 GitHub Repo](https://github.com/mukeshbhol325/OpenCart-UI-Automation)
-</p>
+<summary>Tech Stack</summary>
+- Java  
+- Selenium  
+- TestNG  
+- Extent Reports  
+- Jenkins  
+- Docker  
+- CI/CD Integration  
 </details>
 
+### 🔹 System Design & LLD
+[![System Design](https://img.shields.io/badge/System_Design-LLD-FF69B4?style=for-the-badge)](https://github.com/mukeshbhol325/LLD-Projects)  
 <details>
-<summary>🔹 System Design & LLD</summary>
-<p>
-Low-Level Design projects showcasing modular and scalable architecture.
-
-**Tech Stack:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-008080?style=for-the-badge&logo=UML&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF69B4?style=for-the-badge&logo=UML&logoColor=white)
-![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=UML&logoColor=white)
-![Scalable](https://img.shields.io/badge/Scalable-2E8B57?style=for-the-badge&logo=appveyor&logoColor=white)
-
-[🔗 GitHub Repo](https://github.com/mukeshbhol325/LLD-Projects)
-</p>
+<summary>Tech Stack</summary>
+- Java  
+- OOP  
+- UML  
+- Design Patterns  
+- Scalable Architecture  
 </details>
+
+</div>
+
+---
+
+## 🌟 Portfolio Highlights
+
+<div align="center">
+
+[![Flipkart UI Automation](https://img.shields.io/badge/Flipkart-UI_Automation-ED8B00?style=for-the-badge)](https://github.com/mukeshbhol325/Flipkart-UI-Automation)
+[![PetStore API Automation](https://img.shields.io/badge/PetStore-API_Automation-0F9D58?style=for-the-badge)](https://github.com/mukeshbhol325/PetStoreAutomation)
+[![OpenCart UI Automation](https://img.shields.io/badge/OpenCart-UI_Automation-2496ED?style=for-the-badge)](https://github.com/mukeshbhol325/OpenCart-UI-Automation)
+
+</div>
 
 ---
 
