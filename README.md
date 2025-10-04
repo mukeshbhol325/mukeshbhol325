@@ -33,70 +33,58 @@
 
 ---
 
-## 🚀 Projects (Interactive)
+## 🚀 Projects Portfolio
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-### 🔹 Flipkart UI Automation
-[![Flipkart UI](https://img.shields.io/badge/Flipkart-UI_Automation-ED8B00?style=for-the-badge)](https://github.com/mukeshbhol325/Flipkart-UI-Automation)  
-<sub>Hover over the tech stack to see details!</sub>  
-<details>
-<summary>Tech Stack</summary>
-- Java  
-- Selenium  
-- TestNG  
-- Extent Reports  
-- Page Object Model (POM)  
-</details>
+<!-- Flipkart UI Automation Card -->
+<a href="https://github.com/mukeshbhol325/Flipkart-UI-Automation" target="_blank" style="text-decoration:none;">
+  <div style="background:#ED8B00; padding:15px 20px; border-radius:10px; width:220px; text-align:center; color:white; transition: transform 0.2s;">
+    <h4>Flipkart UI Automation</h4>
+    <p style="font-size:12px; margin:5px 0;">
+      Java | Selenium | TestNG | Extent Reports | POM
+    </p>
+  </div>
+</a>
 
-### 🔹 PetStore Automation
-[![PetStore API](https://img.shields.io/badge/PetStore-API_Automation-0F9D58?style=for-the-badge)](https://github.com/mukeshbhol325/PetStoreAutomation)  
-<details>
-<summary>Tech Stack</summary>
-- Java  
-- RestAssured  
-- TestNG  
-- API Testing  
-- Schema Validation  
-</details>
+<!-- PetStore API Automation Card -->
+<a href="https://github.com/mukeshbhol325/PetStoreAutomation" target="_blank" style="text-decoration:none;">
+  <div style="background:#0F9D58; padding:15px 20px; border-radius:10px; width:220px; text-align:center; color:white; transition: transform 0.2s;">
+    <h4>PetStore API Automation</h4>
+    <p style="font-size:12px; margin:5px 0;">
+      Java | RestAssured | TestNG | API Testing | Schema Validation
+    </p>
+  </div>
+</a>
 
-### 🔹 OpenCart UI Automation
-[![OpenCart UI](https://img.shields.io/badge/OpenCart-UI_Automation-2496ED?style=for-the-badge)](https://github.com/mukeshbhol325/OpenCart-UI-Automation)  
-<details>
-<summary>Tech Stack</summary>
-- Java  
-- Selenium  
-- TestNG  
-- Extent Reports  
-- Jenkins  
-- Docker  
-- CI/CD Integration  
-</details>
+<!-- OpenCart UI Automation Card -->
+<a href="https://github.com/mukeshbhol325/OpenCart-UI-Automation" target="_blank" style="text-decoration:none;">
+  <div style="background:#2496ED; padding:15px 20px; border-radius:10px; width:220px; text-align:center; color:white; transition: transform 0.2s;">
+    <h4>OpenCart UI Automation</h4>
+    <p style="font-size:12px; margin:5px 0;">
+      Java | Selenium | TestNG | Extent Reports | Jenkins | Docker | CI/CD
+    </p>
+  </div>
+</a>
 
-### 🔹 System Design & LLD
-[![System Design](https://img.shields.io/badge/System_Design-LLD-FF69B4?style=for-the-badge)](https://github.com/mukeshbhol325/LLD-Projects)  
-<details>
-<summary>Tech Stack</summary>
-- Java  
-- OOP  
-- UML  
-- Design Patterns  
-- Scalable Architecture  
-</details>
+<!-- System Design & LLD Card -->
+<a href="https://github.com/mukeshbhol325/LLD-Projects" target="_blank" style="text-decoration:none;">
+  <div style="background:#FF69B4; padding:15px 20px; border-radius:10px; width:220px; text-align:center; color:white; transition: transform 0.2s;">
+    <h4>System Design & LLD</h4>
+    <p style="font-size:12px; margin:5px 0;">
+      Java | OOP | Design Patterns | UML | Scalable Architecture
+    </p>
+  </div>
+</a>
 
 </div>
 
----
-
-## 🌟 Portfolio Highlights
-
-<div align="center">
-
-[![Flipkart UI Automation](https://img.shields.io/badge/Flipkart-UI_Automation-ED8B00?style=for-the-badge)](https://github.com/mukeshbhol325/Flipkart-UI-Automation)
-[![PetStore API Automation](https://img.shields.io/badge/PetStore-API_Automation-0F9D58?style=for-the-badge)](https://github.com/mukeshbhol325/PetStoreAutomation)
-[![OpenCart UI Automation](https://img.shields.io/badge/OpenCart-UI_Automation-2496ED?style=for-the-badge)](https://github.com/mukeshbhol325/OpenCart-UI-Automation)
-
-</div>
+<style>
+a div:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+</style>
 
 ---
 
